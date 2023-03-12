@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>有机会一起去看看大海啊</title>
   
-  
+  <subtitle>分享一下日常</subtitle>
   <link href="http://lololjw.top/atom.xml" rel="self"/>
   
   <link href="http://lololjw.top/"/>
@@ -10,7 +10,7 @@
   <id>http://lololjw.top/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>John Wall</name>
     
   </author>
   
