@@ -29,6 +29,15 @@
   </url>
   
   <url>
+    <loc>http://lololjw.top/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://lololjw.top/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://lololjw.top/box/nav/index.html</loc>
+    <loc>http://lololjw.top/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -65,15 +74,6 @@
   </url>
   
   <url>
-    <loc>http://lololjw.top/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://lololjw.top/personal/about/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://lololjw.top/life/music/index.html</loc>
+    <loc>http://lololjw.top/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -101,15 +101,6 @@
   </url>
   
   <url>
-    <loc>http://lololjw.top/site/census/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://lololjw.top/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>http://lololjw.top/social/link/index.html</loc>
+    <loc>http://lololjw.top/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -129,6 +120,15 @@
   
   <url>
     <loc>http://lololjw.top/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lololjw.top/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
